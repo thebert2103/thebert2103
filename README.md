@@ -1,4 +1,4 @@
-# 👋 Hello, moi c'est Thomas !
+# 👋 Hello, moi c'est John !
 
 **Data Analyst issu du secteur industriel**, je combine aujourd’hui
 le terrain et la data pour aider les entreprises à mieux piloter leurs process et leur performance.
