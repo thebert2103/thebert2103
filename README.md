@@ -31,3 +31,19 @@ et contribuer à une prise de décision plus intelligente et plus rapide.
 |**Visualisation**|[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](#) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0) [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)|
 |**Machine Learning**|[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F89939?logo=scikitlearn&logoColor=white)](#) [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](#)
 |**IDE**|![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+
+## 🚀 Mes Projets
+
+| Projet | Description | Techno | Lien |
+|--------|-------------|--------|------|
+| 🔬 Étude de santé publique | Analyse FAO & visualisation |![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white)| [Voir](URL) |
+| 🏘️ Base immobilière | SQL, schéma & requêtes | SQL | [Voir](URL) |
+| 🛒 Gestion boutique | Pré-traitement & analyse | Python / R | [Voir](URL) |
+| 📊 Dashboard Power BI | Suivi d’avancement | Power BI | [Voir](URL) |
+| ⚖️ Égalité F/H | Nettoyage & indicateurs RH | Python / R | [Voir](URL) |
+| 📚 Librairie | Analyse ventes & prévisions | Python / R | [Voir](URL) |
+| 💧 Eau potable | Dashboards & storytelling | Power BI | [Voir](URL) |
+| 📈 Étude de marché | ACP & clustering | Python / R | [Voir](URL) |
+| 💵 Faux billets | ML & classification | Python / R | [Voir](URL) |
+
