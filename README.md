@@ -35,7 +35,7 @@ et contribuer à une prise de décision plus intelligente et plus rapide.
 
 ## 🚀 Mes Projets
 
-| Projet | Description | Techno |
+| Projet | Description | Outils |
 |--------|-------------|--------|
 | 🔬 [Étude de santé publique](https://github.com/thebert2103/OpenClassrooms/tree/main/projet-04) | Analyse FAO & visualisation |![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)|
 | 🏘️ [Base de donnée immobilière](https://github.com/thebert2103/OpenClassrooms/tree/main/projet-05) | SQL, schéma & requêtes |![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)|
