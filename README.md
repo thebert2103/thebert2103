@@ -12,11 +12,9 @@ et contribuer à une prise de décision plus intelligente et plus rapide.
 **Convaincu que la donnée est un levier clé**, je développe une approche mêlant vision opérationnelle, rigueur analytique et amélioration continue.
 
 ## 💼 Parcours
-- 👨‍💻 Actuellement **Data Analyst** dans l'industrie automobile
+- 👨‍💻 Actuellement **Data Scientist** dans l'industrie automobile
 
-- 🎓 En formation **Data Analyst (RNCP 6)** chez **OpenClassrooms**
-
-- 🚀 Prochaine étape : formation **Data Scientist (RNCP 7)** chez **OpenClassrooms**
+- 🎓 En formation **Data Scientist (RNCP 7)** chez **OpenClassrooms**
 
 - 🏭 **10+ années d’expérience** dans l’industrie automobile
 
