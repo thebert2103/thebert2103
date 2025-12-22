@@ -1,6 +1,6 @@
 # 👋 Hello, moi c'est Thomas !
 
-**Data Analyst issu du secteur industriel**, je combine aujourd’hui
+**Data Scientist issu du secteur industriel**, je combine aujourd’hui
 le terrain et la data pour aider les entreprises à mieux piloter leurs process et leur performance.
 
 Après plusieurs années au plus proche des opérations, j’ai choisi de me réorienter vers la data pour transformer l’expérience métier en indicateurs, insights et leviers d’amélioration concrets.
